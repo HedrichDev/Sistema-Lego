@@ -144,7 +144,7 @@ Link del proyecto [AQUI](https://onlinegdb.com/-F1HO4zzG)
 >- Para proyectos grandes, considerar implementar persistencia de datos
 
 
-Desarrollado por Hedrich y Hurtado © 2024
+Desarrollado por Hedrich y Hurtado © 2025
 
 
 [<img
