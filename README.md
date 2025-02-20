@@ -58,7 +58,15 @@ Si no usas ONLINE GDB, asegúrate de que el entorno de programación utilizado s
 - Debes Introducir un mapa que cumpla con las especificaciones: 8 filas y 8 columnas utilizando solo 'X' y 'O'. Cualquier entrada inválida será rechazada.
 - Las Entradas de las 'X' y 'O'  deben ser **UNICAMENTE** en **MAYUSCULAS**
 - Las Entradas ('X' y 'O' )no deben estar Separadas es decir: XXXOXXXO
-- 
+
+
+[<img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5a3dxZTE3eWFlOWVhcXhrbGVheTByZHo4azl2cXFyNzl4NDA3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0VK26c9Ne0ak/giphy.gif" 
+        width=90%
+        title="BATMAN"
+        alt="BATMAN"
+    />
+](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5a3dxZTE3eWFlOWVhcXhrbGVheTByZHo4azl2cXFyNzl4NDA3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0VK26c9Ne0ak/giphy.gif)  
 
 
 
