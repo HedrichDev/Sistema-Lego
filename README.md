@@ -107,25 +107,16 @@ El sistema proporciona diferentes tipos de salidas:
    - Tiempo estimado de entrega
    - Ruta más eficiente
    - Detalles de cada punto en la cadena de distribución
-
+     
+## ARCHIVO DEL Código En ONLINE GDB ❗❗
+Link del proyecto [AQUI](https://onlinegdb.com/-F1HO4zzG)
+ 
 ## Recomendaciones para Ejecutar el Código ❗❗
 
 ### Requisitos Previos
 1. Compilador C (GCC recomendado)
 2. Sistema operativo compatible (Windows, Linux, macOS)
 3. Terminal o línea de comandos
-
-### Pasos para la Ejecución
-
-1. **Compilación del Código**:
-   ```bash
-   gcc -Wall -o lego_system sistema_lego_completo.c
-   ```
-
-2. **Ejecución del Programa**:
-   ```bash
-   ./lego_system
-   ```
 
 ### Consideraciones Importantes
 1. **Entrada de Datos**:
@@ -147,12 +138,12 @@ El sistema proporciona diferentes tipos de salidas:
    - Documentar cualquier modificación en el código
    - Realizar pruebas después de cada cambio significativo
 
-### Notas Adicionales
-- El sistema incluye validaciones para prevenir errores comunes
-- Se recomienda hacer respaldos de los datos importantes
-- Para proyectos grandes, considerar implementar persistencia de datos
+> .[!NOTE].
+>- El sistema incluye validaciones para prevenir errores comunes
+>- Se recomienda hacer respaldos de los datos importantes
+>- Para proyectos grandes, considerar implementar persistencia de datos
 
----
+
 Desarrollado por Hedrich y Hurtado © 2024
 
 
