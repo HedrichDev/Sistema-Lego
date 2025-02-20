@@ -1,4 +1,4 @@
-# !  Hola 👋, Este es el BatiProyecto 3 de HΞDЯICH 
+# !  Hola 👋, Este es el BatiProyecto 3 de HΞDЯICH PARTE 1
 ![](https://github.com/HedrichDev/Sistema-Lego/blob/Media/Proyecto%20%20c%20-%20Sistema%20de%20Gestion%20de%20Lego.png?raw=true)
 
 El Presente Proyecto fue realizado por alumnos de Informatica de la Universidad de Oriente UDO 
