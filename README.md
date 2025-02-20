@@ -18,12 +18,13 @@ El Presente Proyecto fue realizado por alumnos de Informatica de la Universidad 
 # Descripción del Proyecto
 
 [<img
-        src="[link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3dngzdW9mZXhyY3diNzVwMzlvd2Y0bmJtenJvbXFpNGZiNHk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxixMV43t4D8Mo/giphy.gif)" 
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3dngzdW9mZXhyY3diNzVwMzlvd2Y0bmJtenJvbXFpNGZiNHk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxixMV43t4D8Mo/giphy.gif" 
         width=150%
         title="BATMAN"
         alt="BATMAN"
     />
-]([link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3dngzdW9mZXhyY3diNzVwMzlvd2Y0bmJtenJvbXFpNGZiNHk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxixMV43t4D8Mo/giphy.gif))  
+](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3dngzdW9mZXhyY3diNzVwMzlvd2Y0bmJtenJvbXFpNGZiNHk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKxixMV43t4D8Mo/giphy.gif)  
+
 
 
 ### Objetivo
