@@ -1,4 +1,5 @@
 // =================== SISTEMA DE GESTION DE LEGO ===================
+
 //Proyecto 3 Parte 1 -  Desarrollado Por Estudiantes de Informatica de la UDONE, 0501
 
 //Alumnos:
@@ -183,7 +184,7 @@ int removeStore(InventorySystem* system, const char* name) {
     Store* storeToRemove = NULL;
     int storeIndex = -1;
 
-    // Find the store and its index
+    //Encuentra la tienda y su índice.
     for (int i = 0; i < system->storeCount; i++) {
         if (strcmp(system->allStores[i]->name, name) == 0) {
             storeToRemove = system->allStores[i];
@@ -194,7 +195,7 @@ int removeStore(InventorySystem* system, const char* name) {
 
     if (storeToRemove == NULL) return 0;
 
-    // Remove from secondary warehouse
+    // Quitar del almacén secundario
     SecondaryWarehouse* warehouse = findSecondaryWarehouse(system, storeToRemove->secondaryWarehouse);
     if (warehouse != NULL) {
         for (int j = 0; j < warehouse->storeCount; j++) {
@@ -208,7 +209,7 @@ int removeStore(InventorySystem* system, const char* name) {
         }
     }
 
-    // Remove from system's store array
+    // Eliminar de la matriz de tienda del sistema
     for (int j = storeIndex; j < system->storeCount - 1; j++) {
         system->allStores[j] = system->allStores[j + 1];
     }
